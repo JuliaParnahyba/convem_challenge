@@ -1,17 +1,17 @@
 # Desafio Convem 💡
 
-- [Descrição](#descrição-do-projeto)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Descrição 📝](#descrição-📝)
+- [Estrutura do Projeto 🗂️](#estrutura-do-projeto-🗂️)
+- [Tecnologias Utilizadas ⚙️](#tecnologias-utilizadas-⚙️)
 
 
-## Descrição
+## Descrição 📝
 Este projeto é um desafio proposto pela Empresa Comvem dedicado aos alunos da 42 Rio. 
 
 Nesse implementar a integração com a API de Pix do Asaas para gerenciar depósitos (cash in) e saques (cash out), incluindo funcionalidades para geração de QR Codes, recebimento de notificações via webhooks e gerenciamento de transações utilizando a AWS (DynamoDB, SQS, Lambda).
 
 
-## Estrutura do Projeto
+## Estrutura do Projeto 🗂️
 
 ```bash
 DesafioConvem/ 
